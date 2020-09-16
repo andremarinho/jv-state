@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jv-state"
+    }
+  },
+  "defaultProject": "jv-state",
+  "cli": {
+    "analytics": "f4c48817-4407-48db-ba18-d009223ab54b"
+  }
 }
